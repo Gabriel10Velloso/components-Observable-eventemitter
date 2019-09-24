@@ -1,3 +1,5 @@
+# https://www.youtube.com/watch?v=J-7b3sziSBE&t=895s
+
 # Proyecto semi-configurado
 
 Este proyecto de Angular está semi configurado para poder realizar demostraciones y ejemplo rápidos, sin tener que hacer nuevamente todo este código.
